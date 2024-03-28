@@ -8,7 +8,7 @@ const Home = () => {
         <div className="left w-2/3 flex flex-col items-center">
           <div className="w-4/5">
             <h1 className="text-7xl font-semibold leading-relaxed text-white">EMPOWERING VOICES</h1>
-            <h3 className="text-start text-xl font-medium text-white leading-relaxed">EVERY ELECTION, <span className="text-violet-600 ml-2">EVERY VOTE</span></h3>
+            <h3 className="text-xl font-medium text-white leading-relaxed">EVERY ELECTION, <span className="text-violet-600 ml-2">EVERY VOTE</span></h3>
             <p className="text-[#534757] mt-12 text-sm w-10/12 ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, saepe recusandae possimus at dolorum harum similique veniam deserunt facere Lorem ipsum dolor sit amet Lorem ipsum dolor.</p>
             <div className="leading-relaxed mt-12">
               <Link to="/voter">
